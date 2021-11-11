@@ -9,8 +9,9 @@ img{
     /* background-color: gray;
     margin:0 auto; */
     /*ONE WAY TO CENTER IT*/
-    display: block;
-    margin: 0 auto;
+    /* display: block; */
+    /* margin: 0 auto; */
+
     /*SECOND WAY TO CENTER IT*/
     display: block;
     margin: auto;
