@@ -15,7 +15,16 @@ img{
     /*SECOND WAY TO CENTER IT*/
     display: block;
     margin: auto;
-    
-
-
 }
+
+.center{
+    width:80%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+h1{
+    text-align:center;
+}
+
+
